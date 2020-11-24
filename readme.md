@@ -1,3 +1,7 @@
+The code in this repository is from a minor where we had to create our own concept and implement a prototype.
+My group came up with a site where people could fund students in a kickstarter-like way called "Fund a Student"
+
+-------------------------------------------------------------------------------------------------------------
 Download the latest Thread Safe(x86 or 64-bit depends on machine specs) PHP binaries from php.net
 
 Extract to a location of choice, copy this location and put in it your PATH environment variable
